@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "gyvertwink-api"
+version = "0.1.0"
+description = ""
+authors = ["Dmitry (DevDK) <Dmitry@kolyadin.me>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
